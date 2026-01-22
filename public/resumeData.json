@@ -3,7 +3,7 @@
     "name": "Bresly Bermana Perangin - angin",
     "description": "I am a Frontend Developer",
     "github": "https://github.com/BreslyBermanaPerangin-angin",
-    "project": "https://github.com/RidwanAsandi/AnglesKhimar.git",
+    "project": "https://github.com/BreslyBermanaPerangin-angin/Header-Portofolio-",
     "image": "profile.jpg",
     "bio": "HELLO EVERYONE! My name is Bresly Bermana Perangin-angin, you can call me Bresly. I am a Frontend Developer. I have experience working with HTML, CSS, JavaScript, and ReactJS. I love to create beautiful and functional websites that provide an excellent user experience. In addition to my technical skills, I am also a great communicator and team player. I enjoy collaborating with others to achieve common goals and deliver high-quality results. When I'm not coding, I enjoy reading tech blogs, playing video games, and exploring new places.",
     "contactmessage": "Hello, here I am",
@@ -15,7 +15,34 @@
       "state": "Helvetia",
       "zip": "2160"
     },
-    "resumedownload": "https://github.com/BreslyBermanaPerangin-angin"
+    "resumedownload": "https://github.com/BreslyBermanaPerangin-angin",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/BreslyBermanaPerangin-angin",
+        "className": "fa fa-github"
+      }
+    ]
   },
   "resume": {
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
@@ -28,20 +55,20 @@
       },
       {
         "school": "SMA Negeri 1 Kutabuluh",
-        "degree": "Computer Network Engineering",
-        "graduated": "May 2016",
-        "description": "I am joining computer olympiad"
+        "degree": "Science",
+        "graduated": "May 2023",
+        "description": "I am joining Ngawi competition"
       }
     ],
     "work": [
       {
-        "company": "PT. Kalachakra Consulting",
+        "company": "PT. Mencari Cinta Sejati",
         "title": "apprenticeship",
         "years": "February 2022 - May 2022",
         "description": "transfer media"
       },
       {
-        "company": "PT. BCA Finance",
+        "company": "PT. Pelindo",
         "title": "IT Support",
         "years": "Mey 2023",
         "description": "employee reserves"

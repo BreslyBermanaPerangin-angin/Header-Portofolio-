@@ -1,4 +1,4 @@
-import { Component } from "react";
+import React, { Component } from "react";
 import { Fade, Slide } from "react-awesome-reveal";
 
 class Contact extends Component {
@@ -15,18 +15,20 @@ class Contact extends Component {
 
     return (
       <section id="contact">
-        <Fade buttom duration={1000}>
+        <Fade bottom duration={1000}>
           <div className="row section-head">
             <div className="two columns header-col">
               <h1>
-                <span>Get In Touch.</span>
+                <span>Get in Touch</span>
               </h1>
             </div>
+
             <div className="ten columns">
               <p className="lead">{message}</p>
             </div>
           </div>
         </Fade>
+
         <div className="row">
           <Slide left duration={1000}>
             <div className="eight columns">
@@ -120,7 +122,7 @@ class Contact extends Component {
                 <ul id="twitter">
                   <li>
                     <span>
-                      Saya bahagia kemarin <br />
+                    Saya bahagia kemarin<br />
                       <a href="./">http://t.co/CGIrdxIlI3</a>
                     </span>
                     <b>
@@ -129,7 +131,7 @@ class Contact extends Component {
                   </li>
                   <li>
                     <span>
-                      semoga kamu baik-baik saja yaa
+                    Semoga kamu baik-baik saja yaa
                       <br />
                       <a href="./">http://t.co/CGIrdxIlI3</a>
                     </span>
